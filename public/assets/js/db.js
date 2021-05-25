@@ -17,7 +17,6 @@ request.onsuccess = function (event) {
 };
 
 request.onerror = function (event) {
-  // log error here
   console.log(`an error connecting to db ${event.target.errorCode}`)
 };
 
