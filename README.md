@@ -1,6 +1,6 @@
 # Online/Offline Budget Tracker
 
-### [Launch the Application]()
+### [Launch the Application](https://stormy-ridge-34273.herokuapp/)
 
 ## Table of Contents
 - [Overview](#Overview)
@@ -11,7 +11,7 @@
     * [Landing Page](#Landing-page)
 
 ## Overview
-The applications allows a user to 
+The applications allows a user to add expenses and deposits to their budget with or without an internet connection. When the user enters transactions offline, the transactions and total balance will be shown on the page, and the transactions wil be added to the database once the internect connection is restored.
 
 The application's backend uses Mongo database with a Mongoose schema and handles routes with Express.
 
@@ -49,9 +49,7 @@ Node.js - There are installers and packages for all the common operating systems
 
 #### The following images show the web application's appearance and functionality: 
 
-ADD IMAGE
-
-#### Landing Page
+<img width="413" alt="budget" src="https://user-images.githubusercontent.com/74746211/119965486-2e07e600-bf5f-11eb-83d1-ea558542b218.PNG">
 
 --------------------------------
  Week 18 Homework - UofO18pwaBudgetTracker
