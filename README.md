@@ -1,6 +1,6 @@
 # Online/Offline Budget Tracker
 
-### [Launch the Application](https://stormy-ridge-34273.herokuapp/)
+### [Launch the Application](https://stormy-ridge-34273.herokuapp.com/)
 
 ## Table of Contents
 - [Overview](#Overview)
